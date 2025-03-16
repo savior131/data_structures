@@ -1,0 +1,4 @@
+﻿  DoublyLinkedList.cpp
+D:\problem solving\DoublyLinkedList\DoublyLinkedList\DoublyLinkedList.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\problem solving\DoublyLinkedList\DoublyLinkedList\Node.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DoublyLinkedList.vcxproj -> D:\problem solving\DoublyLinkedList\x64\Debug\DoublyLinkedList.exe

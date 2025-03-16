@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+D:\problem solving\LinkedList\LinkedList\Queue.h(51): warning C4715: 'Queue::dequeue': not all control paths return a value
+  LinkedList.vcxproj -> D:\problem solving\LinkedList\x64\Debug\LinkedList.exe
